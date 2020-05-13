@@ -1,0 +1,70 @@
+*{
+	font-family: 'Signika', sans-serif;
+}
+
+
+
+ul{
+	list-style: none;
+}
+
+li{
+	display: inline;
+	margin: 100px;
+	background-color: black;
+}
+
+ li a{
+       color:white;
+       text-decoration: none;
+
+   }
+
+  li a:hover{
+  	color: red;
+  } 
+
+header{
+	background-color: black;
+	padding: 5px;
+}
+
+footer{
+	background-color: black;
+	color: white;
+	padding: 5px;
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+	 font-family: 'Anton', sans-serif;
+	 color:red;
+}
+
+h2{
+	text-align: center;
+	 font-family: 'Anton', sans-serif;
+	 color:red;
+}
+
+
+hr{
+	border: solid black;
+
+
+}
+
+.abc{
+	border-radius: 50%;
+}
+
+#xyz{
+	background-image: url("white.jfif");
+}
+
+#pqr{
+  font-family: 'Noto Serif', serif; 
+  color: blue;
+}
+
